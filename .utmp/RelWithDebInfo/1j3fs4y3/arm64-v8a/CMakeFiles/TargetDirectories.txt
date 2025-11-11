@@ -1,0 +1,5 @@
+/home/will-pettifer/repos/RIGPR Escape Room/.utmp/RelWithDebInfo/1j3fs4y3/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/will-pettifer/repos/RIGPR Escape Room/.utmp/RelWithDebInfo/1j3fs4y3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/will-pettifer/repos/RIGPR Escape Room/.utmp/RelWithDebInfo/1j3fs4y3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/home/will-pettifer/repos/RIGPR Escape Room/.utmp/RelWithDebInfo/1j3fs4y3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/home/will-pettifer/repos/RIGPR Escape Room/.utmp/RelWithDebInfo/1j3fs4y3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

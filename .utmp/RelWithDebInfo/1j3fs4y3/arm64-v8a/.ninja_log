@@ -1,0 +1,10 @@
+# ninja log v5
+1	1077	1762255673593421846	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7d589abfa6fc06a6
+1	1095	1762255673605322903	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ae6777fa3321a6ee
+1	1121	1762255673644565606	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	213f78b1e3fcda26
+0	1151	1762255673674573635	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8312913ab10798
+0	1239	1762255673761716818	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8005895fe117d675
+1	1269	1762255673793585278	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4a1edba1f5905fbb
+1	1465	1762255673988246015	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5cc7b4665c0fb842
+0	1507	1762255674029299702	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7cf738f75a0ce317
+1507	1539	1762255674066343521	/home/will-pettifer/repos/RIGPR Escape Room/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1j3fs4y3/obj/arm64-v8a/libgame.so	d78d63e03ae906a7
