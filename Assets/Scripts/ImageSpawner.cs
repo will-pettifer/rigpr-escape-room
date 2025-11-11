@@ -9,7 +9,6 @@ public class ImageSpawner : MonoBehaviour
     void OnEnable()
     {
         m_ImageManager.trackablesChanged.AddListener(OnChanged);
-        Debug.Lo
     } 
 
     void OnDisable() => m_ImageManager.trackablesChanged.RemoveListener(OnChanged);
