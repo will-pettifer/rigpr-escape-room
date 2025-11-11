@@ -2,7 +2,7 @@
 
 ### Commit Messages
 
-We can  tests teset uwuasdasdsa
+We can  tests teset uwuasdasdsamdsiovsduvsdiuvndsvndskj
 
 To ensure that commit messages are clear and concise, please remember to structure them in the format below.
 ```
