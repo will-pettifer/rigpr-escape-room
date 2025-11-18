@@ -1,3 +1,17 @@
+<<<<<<< Updated upstream
+=======
+## Naming Conventions
+
+Use the Unity naming conventions:
+
+https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity
+
+|     |     |
+| --- | --- |
+|     |     |
+|     |     |
+
+>>>>>>> Stashed changes
 ## Version Control
 
 ### Commit Messages
